@@ -1,4 +1,6 @@
 # Entropy
+⚠️ This script is for educational purposes only. Do not use this against real passwords, systems, or users. This is to demonstrate the weakness of short, low-entropy passwords and the power of randomness in brute-force scenarios.
+
 Entropy is a brute force algorithm that tries to crack passwords by looping over a list of possible passwords. However, unlike most brute force algorithms, the password are not stored in a wordlist. They are randomly generated and are unpredictable as a result. 
 
 To initiate the program, the user is required to enter a password. After that, the program randomly generates passwords as a way to guess the password you input.  
